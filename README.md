@@ -1,5 +1,5 @@
-<h1>⚙️ Oii eu sou Nicollas Freitas
-Um Dev constantemente em busca de evolução</h1> 
+<h1>⚙️ Oii eu sou Nicollas Freitas</h1>
+<h1>❇️Um Dev constantemente em busca de evolução</h1> 
 <h3>🧑🏻‍💻 Atualmente estou aprendendo Javascript</h3>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mit0lenda&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
