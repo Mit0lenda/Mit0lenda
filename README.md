@@ -25,4 +25,4 @@
   
 </div>
 
-  ![Snake animation](https://github.com/Mit0lenda)
+  ![Snake animation](Mit0lenda)
