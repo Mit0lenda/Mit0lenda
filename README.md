@@ -6,7 +6,7 @@
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Mit0lenda&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Mit0lenda&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 ##
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="ce93320e-12ef-49f1-81b8-d3612860fb4e" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<div><a href="https://www.credly.com/badges/ce93320e-12ef-49f1-81b8-d3612860fb4e/public_url" target="_blank"><img src="https://www.credly.com/badges/ce93320e-12ef-49f1-81b8-d3612860fb4e/public_url" target="_blank"></a></div>
 <h3>Linguagens de Programação:</h3>
   <div style="display: inline_block"><br>
   <img align="center" alt="Nico-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
