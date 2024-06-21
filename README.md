@@ -1,6 +1,8 @@
 <h1>⚙️ Oii eu sou Nicollas Freitas</h1>
 <h1>❇️Um Dev constantemente em busca de evolução</h1> 
-<h3>🧑🏻‍💻 Atualmente estou aprendendo Javascript</h3>
+<h3>🧑🏻‍💻 Atualmente estou participando:</h3>
+<h3>Geração Caldeira-GC2024 Trilha Java</h3>
+<h3>Itwin 2024 Brasil</h3>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mit0lenda&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Mit0lenda&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
