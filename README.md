@@ -3,44 +3,42 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=500&lines=🔥+Criando+sistemas+que+inspiram...;🚀+Liderando+projetos+com+propósito;🔐+Estagiário+na+Polícia+Federal;💡+Co-fundador+de+uma+startup+tech!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=500&lines=🔥+Building+inspiring+systems...;🚀+Leading+purpose-driven+projects;🔐+Intern+at+Federal+Police+of+Brazil;💡+Co-founder+of+a+tech+startup!" alt="Typing SVG" />
 </p>
 
-
-
-<h1 align="center">⚙️ Oi! Eu sou o Nicollas Freitas</h1>
-<h2 align="center">❇️ Desenvolvedor Full Stack em formação | Dev criativo com propósito</h2>
+<h1 align="center">⚙️ Hi! I'm Nicollas Freitas</h1>
+<h2 align="center">❇️ Full Stack Developer in training | Creative dev with purpose</h2>
 
 <p align="center">
-💻 Estudante de Ciência da Computação na Unisinos e Engenharia de Computação na UERGS<br>
-🔐 Estagiário na Polícia Federal — Laboratório de Perícia Digital<br>
-📊 Criador do Sistema Atlas (consultoria de FGTS com integração bancária)<br>
-🚀 Co-fundador do Projeto Nexus (startup incubada no CEI/UFRGS com IA para logística de obras)<br>
-🎓 Certificado pela Alura | Badge iTwin Developer pela Bentley
+💻 Computer Science student at Unisinos and Computer Engineering student at UERGS<br>
+🔐 Intern at the Federal Police of Brazil — Digital Forensics Lab<br>
+📊 Creator of the Atlas System (FGTS consultancy with banking integration)<br>
+🚀 Co-founder of Project Nexus (startup incubated at CEI/UFRGS using AI for construction logistics)<br>
+🎓 Certified by Alura | iTwin Developer Badge by Bentley
 </p>
 
 ---
 
-### 🫶🏻 Participei:
-- 🛜 Itwin 2024 Brasil
-- 💜 Geração Caldeira GC2024 – Trilha Java
+### 🫶🏻 I have participated in:
+- 🛜 Itwin 2024 Brazil
+- 💜 Geração Caldeira GC2024 – Java Track
 
 ---
 
-### 🧠 Atualmente participando:
-- 💜 Geração Caldeira GC2025 – Trilha Java  
-- ℹ️ Startup NEXUS Pré-incubada no CEI/UFRGS
+### 🧠 Currently participating in:
+- 💜 Geração Caldeira GC2025 – Java Track  
+- ℹ️ NEXUS Startup – Pre-incubated at CEI/UFRGS
 
 ---
 
-### 📂 Projetos em Destaque:
-- 🔧 **Sistema Atlas**: React + Node + OAuth2 + SQL + Azure  
-- 🧠 **Haven Link**: IA para crises e desastres  
-- 📍 **Nexus**: Monitoramento de obras com IA + geolocalização
+### 📂 Featured Projects:
+- 🔧 **Atlas System**: React + Node + OAuth2 + SQL + Azure  
+- 🧠 **Haven Link**: AI for crisis and disaster response  
+- 📍 **Nexus**: Construction site monitoring with AI + geolocation
 
 ---
 
-### 📊 GitHub Stats & Atividades Recentes
+### 📊 GitHub Stats & Recent Activity
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Mit0lenda&show_icons=true&theme=default" />
@@ -52,7 +50,7 @@
 
 ---
 
-### 🛠️ Tecnologias que utilizo:
+### 🛠️ Tech Stack I Use:
 <div style="display: inline_block"><br>
   <img align="center" alt="Nico-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Nico-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -64,7 +62,7 @@
 
 ---
 
-### 📫 Onde me encontrar:
+### 📫 Let's connect:
 
 <div> 
   <a href="https://instagram.com/nicollasde" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
@@ -75,10 +73,10 @@
 
 ---
 
-### 🏆 Certificações:
-- Formação A partir do Zero - Alura  
-- Trilha Front-end e Back-end - Alura  
-- Java Orientado a Objetos - Alura  
+### 🏆 Certifications:
+- Alura's From Scratch Formation  
+- Front-end & Back-end Track – Alura  
+- Object-Oriented Java – Alura  
 - Bentley iTwin Platform Associate  
 
 <div align="left">
