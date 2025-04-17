@@ -1,4 +1,6 @@
 <p align="right">
+    <img src="https://img.shields.io/badge/README-Multilingual-blueviolet?style=for-the-badge&logo=github" alt="Multilingual README" />
+  <br>
   🌐 Available in: [🇧🇷 Português](README.pt-br.md) | 🇺🇸 English
 </p>
 
