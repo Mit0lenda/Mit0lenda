@@ -3,8 +3,10 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=500&lines=🔥+Criando+sistemas+que+inspiram...;🚀+Liderando+projetos+com+propósito;🔐+Estagiando+na+Polícia+Federal;💡+Co-fundando+uma+startup+tech!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=500&lines=🔥+Criando+sistemas+que+inspiram...;🚀+Liderando+projetos+com+propósito;🔐+Estagiário+na+Polícia+Federal;💡+Co-fundador+de+uma+startup+tech!" alt="Typing SVG" />
 </p>
+
+
 
 <h1 align="center">⚙️ Oi! Eu sou o Nicollas Freitas</h1>
 <h2 align="center">❇️ Desenvolvedor Full Stack em formação | Dev criativo com propósito</h2>
