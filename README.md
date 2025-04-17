@@ -1,3 +1,7 @@
+<p align="right">
+  🌐 Available in: [🇧🇷 Português](README.pt-br.md) | 🇺🇸 English
+</p>
+
 <p align="center">
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="300" alt="epic-dev-fire" />
 </p>
@@ -11,7 +15,7 @@
 
 <p align="center">
 💻 Computer Science student at Unisinos and Computer Engineering student at UERGS<br>
-🔐 Intern at the Federal Police of Brazil — Digital Forensics Lab<br>
+🔐 Intern at the Brazilian Federal Police — Digital Forensics Lab<br>
 📊 Creator of the Atlas System (FGTS consultancy with banking integration)<br>
 🚀 Co-founder of Project Nexus (startup incubated at CEI/UFRGS using AI for construction logistics)<br>
 🎓 Certified by Alura | iTwin Developer Badge by Bentley
@@ -20,25 +24,25 @@
 ---
 
 ### 🫶🏻 I have participated in:
-- 🛜 Itwin 2024 Brazil
+- 🛜 iTwin 2024 Brazil – Bentley Systems
 - 💜 Geração Caldeira GC2024 – Java Track
 
 ---
 
-### 🧠 Currently participating in:
+### 🧠 Currently involved in:
 - 💜 Geração Caldeira GC2025 – Java Track  
 - ℹ️ NEXUS Startup – Pre-incubated at CEI/UFRGS
 
 ---
 
 ### 📂 Featured Projects:
-- 🔧 **Atlas System**: React + Node + OAuth2 + SQL + Azure  
+- 🔧 **Atlas System**: React + Node.js + OAuth2 + SQL + Azure  
 - 🧠 **Haven Link**: AI for crisis and disaster response  
-- 📍 **Nexus**: Construction site monitoring with AI + geolocation
+- 📍 **Nexus**: Construction site monitoring with AI and geolocation
 
 ---
 
-### 📊 GitHub Stats & Recent Activity
+### 📊 GitHub Stats & Activity
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Mit0lenda&show_icons=true&theme=default" />
@@ -50,10 +54,11 @@
 
 ---
 
-### 🛠️ Tech Stack I Use:
+### 🛠️ Tech Stack
+
 <div style="display: inline_block"><br>
-  <img align="center" alt="Nico-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Nico-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Nico-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Nico-TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Nico-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Nico-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Nico-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -62,7 +67,7 @@
 
 ---
 
-### 📫 Let's connect:
+### 📫 Let’s Connect
 
 <div> 
   <a href="https://instagram.com/nicollasde" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
@@ -73,10 +78,11 @@
 
 ---
 
-### 🏆 Certifications:
-- Alura's From Scratch Formation  
-- Front-end & Back-end Track – Alura  
-- Object-Oriented Java – Alura  
+### 🏆 Certifications
+
+- Alura – From Scratch Development Path  
+- Alura – Full Stack (Front-end & Back-end)  
+- Alura – Java Object-Oriented Programming  
 - Bentley iTwin Platform Associate  
 
 <div align="left">
