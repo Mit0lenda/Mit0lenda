@@ -141,8 +141,8 @@ con los datos reales de tus proyectos. ¡También puedes duplicar las etiquetas 
 ## ⬢ [ 05. GITHUB_STATS ]
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mit0lenda&show_icons=true&theme=tokyonight&hide_border=true&bg_color=080808&title_color=F24A00&icon_color=00F5A0&text_color=A1A1AA" height="160" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mit0lenda&layout=compact&theme=tokyonight&hide_border=true&bg_color=080808&title_color=00AEEF&text_color=A1A1AA" height="160" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Mit0lenda&show_icons=true&theme=tokyonight&hide_border=true&bg_color=080808&title_color=F24A00&icon_color=00F5A0&text_color=A1A1AA" height="160" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Mit0lenda&layout=compact&theme=tokyonight&hide_border=true&bg_color=080808&title_color=00AEEF&text_color=A1A1AA" height="160" alt="Top Languages" />
 </div>
 
 <br/>
