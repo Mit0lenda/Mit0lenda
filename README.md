@@ -29,20 +29,17 @@
 
 ## ⬢ [ 01. ABOUT_ME ]
 
-I am a developer focused on **transforming real business problems into digital solutions**. 
-I work with building websites, landing pages, web systems, automations, integrations, and intelligent workflows.
-
-My priority is **clarity, performance, maintainability, and results**. I don't just write code, I deliver value.
+- 🔭 Currently working as an **AI Agents & Automation Specialist**
+- 🧠 Main focus on **Artificial Intelligence, Automation (n8n) and Full-Stack Systems**
 
 <br/>
 
 ## ⬢ [ 02. TECH_STACK ]
 
 <details open>
-<summary><b>[+] FRONT_END</b></summary>
+<summary><b>[+] TECH_STACK & AI:</b></summary>
 <br/>
-
-`HTML` `CSS` `JavaScript` `React` `Next.js`
+`n8n` `Supabase` `Claude/OpenAI` `TypeScript` `React.js` `Node.js` `Python` `Docker` `Stripe`
 </details>
 
 <details open>
@@ -94,7 +91,7 @@ with your real project data. You can also duplicate the <tr> tags to add new pro
       <p><b>Problem it solves:</b> Intelligent context routing, continuous conversation memory, and seamless human handoff in customer service.</p>
       <p><b>Tech:</b> <code>n8n, Chatwoot, Supabase, Claude/GPT, Node.js</code></p>
       <p><b>Status:</b> 🟡 In development</p>
-      <a href="https://github.com/Mit0lenda"><strong>[ ACCESS ]</strong></a>
+      <a href="https://mitolenda.dev/"><strong>[ ACCESS ]</strong></a>
     </td>
     <td width="50%" valign="top">
       <h3><code>// PROJECT_02</code></h3>
@@ -103,7 +100,7 @@ with your real project data. You can also duplicate the <tr> tags to add new pro
       <p><b>Problem it solves:</b> Lack of real-time visibility in construction sites, using AI for object recognition.</p>
       <p><b>Tech:</b> <code>HTML, CSS, JS, Node.js, Python, AI</code></p>
       <p><b>Status:</b> 🟡 In development</p>
-      <a href="https://github.com/Mit0lenda"><strong>[ ACCESS ]</strong></a>
+      <a href="https://mitolenda.dev/"><strong>[ ACCESS ]</strong></a>
     </td>
   </tr>
   <tr>
@@ -114,7 +111,7 @@ with your real project data. You can also duplicate the <tr> tags to add new pro
       <p><b>Problem it solves:</b> Deficit in supply distribution, optimizing routes via visual AI and automated mapping.</p>
       <p><b>Tech:</b> <code>Python, Computer Vision, AI</code></p>
       <p><b>Status:</b> 🟢 3rd Place National</p>
-      <a href="https://github.com/Mit0lenda"><strong>[ ACCESS ]</strong></a>
+      <a href="https://mitolenda.dev/"><strong>[ ACCESS ]</strong></a>
     </td>
     <td width="50%" valign="top">
       <h3><code>// PROJECT_04</code></h3>

@@ -29,20 +29,18 @@
 
 ## ⬢ [ 01. SOBRE_MIM ]
 
-Sou desenvolvedor focado em **transformar problemas reais de negócio em soluções digitais**. 
-Trabalho com construção de sites, landing pages, sistemas web, automações, integrações e fluxos inteligentes.
-
-Minha prioridade é **clareza, performance, manutenção e resultado**. Não escrevo apenas código, entrego valor.
+- 🔭 Atualmente atuando como **Especialista em Agentes de IA e Automações**
+- 🧠 Foco principal em **Inteligência Artificial, Automação (n8n) e Sistemas Full-Stack**
 
 <br/>
 
 ## ⬢ [ 02. STACK_TÉCNICA ]
 
 <details open>
-<summary><b>[+] FRONT_END</b></summary>
+<summary><b>[+] TECH_STACK & IA:</b></summary>
 <br/>
 
-`HTML` `CSS` `JavaScript` `React` `Next.js`
+`n8n` `Supabase` `Claude/OpenAI` `TypeScript` `React.js` `Node.js` `Python` `Docker` `Stripe`
 </details>
 
 <details open>
@@ -94,7 +92,7 @@ com os dados reais dos seus projetos. Você também pode duplicar as tags <tr> p
       <p><b>Problema que resolve:</b> Roteamento inteligente de contexto, memória contínua de conversa e handoff humano fluido no atendimento.</p>
       <p><b>Tech:</b> <code>n8n, Chatwoot, Supabase, Claude/GPT, Node.js</code></p>
       <p><b>Status:</b> 🟡 Em desenvolvimento</p>
-      <a href="https://github.com/Mit0lenda"><strong>[ ACESSAR ]</strong></a>
+      <a href="https://mitolenda.dev/"><strong>[ ACESSAR ]</strong></a>
     </td>
     <td width="50%" valign="top">
       <h3><code>// PROJETO_02</code></h3>
@@ -103,7 +101,7 @@ com os dados reais dos seus projetos. Você também pode duplicar as tags <tr> p
       <p><b>Problema que resolve:</b> Falta de visibilidade em tempo real nos canteiros de obras, utilizando IA para reconhecimento de objetos.</p>
       <p><b>Tech:</b> <code>HTML, CSS, JS, Node.js, Python, IA</code></p>
       <p><b>Status:</b> 🟡 Em desenvolvimento</p>
-      <a href="https://github.com/Mit0lenda"><strong>[ ACESSAR ]</strong></a>
+      <a href="https://mitolenda.dev/"><strong>[ ACESSAR ]</strong></a>
     </td>
   </tr>
   <tr>
@@ -114,7 +112,7 @@ com os dados reais dos seus projetos. Você também pode duplicar as tags <tr> p
       <p><b>Problema que resolve:</b> Déficit na distribuição de suprimentos, otimizando rotas com IA visual e mapeamento automatizado.</p>
       <p><b>Tech:</b> <code>Python, Visão Computacional, IA</code></p>
       <p><b>Status:</b> 🟢 3º Lugar Nacional</p>
-      <a href="https://github.com/Mit0lenda"><strong>[ ACESSAR ]</strong></a>
+      <a href="https://mitolenda.dev/"><strong>[ ACESSAR ]</strong></a>
     </td>
     <td width="50%" valign="top">
       <h3><code>// PROJETO_04</code></h3>

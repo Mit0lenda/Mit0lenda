@@ -29,27 +29,18 @@
 
 ## ⬢ [ 01. SOBRE_MI ]
 
-Soy un desarrollador enfocado en **transformar problemas reales de negocio en soluciones digitales**. 
-Trabajo en la creación de sitios web, landing pages, sistemas web, automatizaciones, integraciones y flujos inteligentes.
-
-Mi prioridad es la **claridad, el rendimiento, el mantenimiento y los resultados**. No solo escribo código, entrego valor.
+- 🔭 Actualmente trabajando como **Especialista en Agentes de IA y Automatizaciones**
+- 🧠 Enfoque principal en **Inteligencia Artificial, Automatización (n8n) y Sistemas Full-Stack**
 
 <br/>
 
 ## ⬢ [ 02. TECH_STACK ]
 
 <details open>
-<summary><b>[+] FRONT_END</b></summary>
+<summary><b>[+] TECH_STACK & IA:</b></summary>
 <br/>
 
-`HTML` `CSS` `JavaScript` `React` `Next.js`
-</details>
-
-<details open>
-<summary><b>[+] BACK_END</b></summary>
-<br/>
-
-`Node.js` `APIs REST` `Autenticación`
+`n8n` `Supabase` `Claude/OpenAI` `TypeScript` `React.js` `Node.js` `Python` `Docker` `Stripe`
 </details>
 
 <details open>
@@ -94,7 +85,7 @@ con los datos reales de tus proyectos. ¡También puedes duplicar las etiquetas 
       <p><b>Problema que resuelve:</b> Enrutamiento inteligente de contexto, memoria continua y transferencia fluida a humanos en la atención.</p>
       <p><b>Tech:</b> <code>n8n, Chatwoot, Supabase, Claude/GPT, Node.js</code></p>
       <p><b>Estado:</b> 🟡 En desarrollo</p>
-      <a href="https://github.com/Mit0lenda"><strong>[ ACCEDER ]</strong></a>
+      <a href="https://mitolenda.dev/"><strong>[ ACCEDER ]</strong></a>
     </td>
     <td width="50%" valign="top">
       <h3><code>// PROYECTO_02</code></h3>
@@ -103,7 +94,7 @@ con los datos reales de tus proyectos. ¡También puedes duplicar las etiquetas 
       <p><b>Problema que resuelve:</b> Falta de visibilidad en tiempo real en las construcciones, usando IA para reconocimiento de objetos.</p>
       <p><b>Tech:</b> <code>HTML, CSS, JS, Node.js, Python, IA</code></p>
       <p><b>Estado:</b> 🟡 En desarrollo</p>
-      <a href="https://github.com/Mit0lenda"><strong>[ ACCEDER ]</strong></a>
+      <a href="https://mitolenda.dev/"><strong>[ ACCEDER ]</strong></a>
     </td>
   </tr>
   <tr>
@@ -114,7 +105,7 @@ con los datos reales de tus proyectos. ¡También puedes duplicar las etiquetas 
       <p><b>Problema que resuelve:</b> Déficit en la distribución de suministros, optimizando rutas con IA visual y mapeo automatizado.</p>
       <p><b>Tech:</b> <code>Python, Visión por Computadora, IA</code></p>
       <p><b>Estado:</b> 🟢 3º Lugar Nacional</p>
-      <a href="https://github.com/Mit0lenda"><strong>[ ACCEDER ]</strong></a>
+      <a href="https://mitolenda.dev/"><strong>[ ACCEDER ]</strong></a>
     </td>
     <td width="50%" valign="top">
       <h3><code>// PROYECTO_04</code></h3>
