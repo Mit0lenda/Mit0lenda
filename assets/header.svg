@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 250" width="100%" height="250">
+  <style>
+    @keyframes blink {
+      0%, 100% { opacity: 1; }
+      50% { opacity: 0; }
+    }
+    @keyframes scanline {
+      0% { transform: translateY(-100%); }
+      100% { transform: translateY(250px); }
+    }
+    @keyframes glitch {
+      0% { transform: translate(0) }
+      10% { transform: translate(-2px, 2px) }
+      20% { transform: translate(2px, -2px) }
+      30% { transform: translate(0) }
+      100% { transform: translate(0) }
+    }
+    
+    .bg { fill: #080808; }
+    .text-main { font-family: 'Consolas', 'Courier New', monospace; fill: #F7F2E8; font-size: 22px; font-weight: bold; }
+    .text-dim { font-family: 'Consolas', 'Courier New', monospace; fill: #A1A1AA; font-size: 14px; }
+    .text-accent-1 { fill: #F24A00; }
+    .text-accent-2 { fill: #00AEEF; }
+    .text-accent-3 { fill: #00F5A0; }
+    
+    .cursor {
+      animation: blink 1s step-end infinite;
+      fill: #00F5A0;
+    }
+    .scanline {
+      fill: rgba(247, 242, 232, 0.02);
+      animation: scanline 6s linear infinite;
+    }
+    .glitch {
+      animation: glitch 4s infinite;
+    }
+    .glitch-2 {
+      animation: glitch 4s infinite;
+      animation-delay: 0.1s;
+      fill: #00AEEF;
+      opacity: 0.7;
+    }
+    .glitch-3 {
+      animation: glitch 4s infinite;
+      animation-delay: -0.1s;
+      fill: #F24A00;
+      opacity: 0.7;
+    }
+  </style>
+
+  <rect width="100%" height="100%" class="bg" />
+  
+  <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse">
+    <path d="M 30 0 L 0 0 0 30" fill="none" stroke="rgba(161, 161, 170, 0.04)" stroke-width="1"/>
+  </pattern>
+  <rect width="100%" height="100%" fill="url(#grid)" />
+
+  <rect width="100%" height="15px" class="scanline" />
+  
+  <g transform="translate(40, 45)">
+    <text class="text-dim" x="0" y="0">MITOLENDA_OS // v2026.1.0-stable</text>
+    <text class="text-dim" x="0" y="22">> INIT KERNEL... [OK]</text>
+    <text class="text-dim" x="0" y="44">> MOUNTING FILESYSTEM... [OK]</text>
+    <text class="text-dim" x="0" y="66">> STARTING SERVICES... [OK]</text>
+    
+    <g transform="translate(0, 110)">
+      <text class="text-main" x="0" y="0">
+        <tspan class="text-accent-2">dev@mitolenda</tspan><tspan class="text-dim">:~#</tspan> <tspan class="text-accent-3">./deploy_future.sh</tspan>
+      </text>
+      <rect class="cursor" x="420" y="-18" width="12" height="22" />
+    </g>
+
+    <g transform="translate(0, 170)">
+      <text class="text-main glitch-2" x="-2" y="0" style="font-size: 40px; font-weight: 900; letter-spacing: 2px;">
+        <tspan class="text-accent-1">[</tspan> DEV_MITOLENDA <tspan class="text-accent-1">]</tspan>
+      </text>
+      <text class="text-main glitch-3" x="2" y="0" style="font-size: 40px; font-weight: 900; letter-spacing: 2px;">
+        <tspan class="text-accent-1">[</tspan> DEV_MITOLENDA <tspan class="text-accent-1">]</tspan>
+      </text>
+      <text class="text-main glitch" x="0" y="0" style="font-size: 40px; font-weight: 900; letter-spacing: 2px;">
+        <tspan class="text-accent-1">[</tspan> DEV_MITOLENDA <tspan class="text-accent-1">]</tspan>
+      </text>
+    </g>
+  </g>
+</svg>

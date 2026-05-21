@@ -1,91 +1,164 @@
 <div align="center">
-
-# NICOLLAS FREITAS
-
-`FULL-STACK DEVELOPER // WEBSITES // SYSTEMS // AUTOMATIONS`
-
-[English](README.md) | [Portugues (Brasil)](README.pt-br.md) | [Espanol](README.es.md)
-
-[![Site](https://img.shields.io/badge/MITOLENDA.DEV-F24A00?style=for-the-badge&labelColor=080808)](https://mitolenda.dev/)
-[![GitHub](https://img.shields.io/badge/GITHUB-MIT0LENDA-00AEEF?style=for-the-badge&labelColor=080808)](https://github.com/Mit0lenda)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-NICOLLASDE-0A66C2?style=for-the-badge&labelColor=080808)](https://www.linkedin.com/in/nicollasde/)
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-DEV__MITOLENDA-E4405F?style=for-the-badge&labelColor=080808)](https://instagram.com/dev_mitolenda)
-
+  <img src="./assets/header.svg" alt="DEV_MITOLENDA OS" width="100%" />
 </div>
 
-> I help small and mid-sized companies automate processes and sell more through websites, systems, and digital integrations.
+<div align="right">
+  <b>🇺🇸 English</b> | <a href="README.pt-br.md">🇧🇷 Português</a> | <a href="README.es.md">🇪🇸 Español</a>
+</div>
 
-```txt
-CURRENT_SIGNAL
-- Porto Alegre, RS - Brazil
-- Junior AI & Automation Developer at Promont
-- Co-founder and Full-Stack Developer at Nexus / Nexium
-- Builder of mitolenda.dev
-```
+<div align="center">
 
-## PROOF
+# [ DEV_MITOLENDA ]
 
-- 3rd place nationally at iTwin4Good BR with Haven Link (Enactus + Bentley).
-- Digital Forensics internship at the Brazilian Federal Police.
-- Computer Science at Unisinos and Computer Engineering at UERGS.
-- Current focus: React, TypeScript, Node.js, Python, Supabase, n8n, AI agents, and LLM integrations.
+<br/>
 
-## SELECTED WORK
+> **"I build websites, systems, and automations for businesses that want to sell more, operate better, and stop wasting time with manual processes."**
 
-- [mitolenda.dev](https://mitolenda.dev/) - public commercial site for high-performance websites, landing pages, automations, and custom systems.
-- [PortFolio](https://github.com/Mit0lenda/PortFolio) - personal portfolio and presentation layer for my work.
-- [API-CodarynBLOG](https://github.com/Mit0lenda/API-CodarynBLOG) - TypeScript API repository connected to a published Codaryn blog endpoint.
-- [Nexus](https://github.com/Mit0lenda/Nexus) - Python-based project for construction monitoring in the iTwin ecosystem.
-- Haven Link - emergency logistics AI project that reached 3rd place nationally in iTwin4Good BR.
+`Web development` • `n8n` • `APIs` • `automations` • `custom systems` • `digital presence`
 
-## WHAT I BUILD
+<br/>
 
-[![Websites](https://img.shields.io/badge/HIGH--PERFORMANCE_WEBSITES-F24A00?style=for-the-badge&labelColor=080808)](https://mitolenda.dev/)
-[![Landing Pages](https://img.shields.io/badge/LANDING_PAGES-181818?style=for-the-badge&labelColor=080808&color=181818)](https://mitolenda.dev/)
-[![Automations](https://img.shields.io/badge/N8N_AUTOMATIONS-00F5A0?style=for-the-badge&labelColor=080808&color=00F5A0)](https://mitolenda.dev/)
-[![Systems](https://img.shields.io/badge/CUSTOM_SYSTEMS-00AEEF?style=for-the-badge&labelColor=080808&color=00AEEF)](https://mitolenda.dev/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23080808?style=for-the-badge&logo=vercel&logoColor=F7F2E8&borderColor=00AEEF)](https://mitolenda.dev/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%23080808?style=for-the-badge&logo=linkedin&logoColor=00AEEF)](https://linkedin.com/in/nicollasde)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%23080808?style=for-the-badge&logo=whatsapp&logoColor=00F5A0)](https://wa.me/555131999319)
+[![Email](https://img.shields.io/badge/Email-%23080808?style=for-the-badge&logo=minutemailer&logoColor=F24A00)](mailto:devmitolenda@gmail.com)
 
-- Websites and landing pages focused on clarity, speed, and conversion.
-- Automations with n8n, APIs, chat flows, and AI support.
-- Internal systems that replace manual workflows and reduce operational friction.
-- Technical brands, portfolios, and web presence that look intentional instead of generic.
+<br/>
+<hr style="border: 1px solid #181818;" />
+</div>
 
-## STACK
+## ⬢ [ 01. ABOUT_ME ]
 
-[![React](https://img.shields.io/badge/React-181818?style=for-the-badge&logo=react&logoColor=00AEEF)](https://react.dev/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-181818?style=for-the-badge&logo=typescript&logoColor=3178C6)](https://www.typescriptlang.org/)
-[![Node.js](https://img.shields.io/badge/Node.js-181818?style=for-the-badge&logo=node.js&logoColor=339933)](https://nodejs.org/)
-[![Python](https://img.shields.io/badge/Python-181818?style=for-the-badge&logo=python&logoColor=3776AB)](https://www.python.org/)
-[![Supabase](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=3ECF8E)](https://supabase.com/)
-[![n8n](https://img.shields.io/badge/n8n-181818?style=for-the-badge&logo=n8n&logoColor=EA4B71)](https://n8n.io/)
-[![Java](https://img.shields.io/badge/Java-181818?style=for-the-badge&logo=openjdk&logoColor=F89820)](https://www.java.com/)
-[![Docker](https://img.shields.io/badge/Docker-181818?style=for-the-badge&logo=docker&logoColor=2496ED)](https://www.docker.com/)
+I am a developer focused on **transforming real business problems into digital solutions**. 
+I work with building websites, landing pages, web systems, automations, integrations, and intelligent workflows.
 
-## GITHUB SNAPSHOT
+My priority is **clarity, performance, maintainability, and results**. I don't just write code, I deliver value.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mit0lenda&show_icons=true&hide_border=true&bg_color=080808&title_color=F24A00&text_color=F7F2E8&icon_color=00AEEF" alt="GitHub stats for Nicollas Freitas" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mit0lenda&layout=compact&hide_border=true&bg_color=080808&title_color=F24A00&text_color=F7F2E8" alt="Top languages used by Nicollas Freitas" width="48%" />
-</p>
+<br/>
 
-## REPOSITORY MAP
+## ⬢ [ 02. TECH_STACK ]
 
-All public repositories live at [github.com/Mit0lenda?tab=repositories](https://github.com/Mit0lenda?tab=repositories). The grouped view below covers the current public set.
+<details open>
+<summary><b>[+] FRONT_END</b></summary>
+<br/>
 
-<details>
-<summary>Open the grouped map of 34 public repositories</summary>
-
-- Profile, portfolio, and web presence: [Mit0lenda](https://github.com/Mit0lenda/Mit0lenda), [PortFolio](https://github.com/Mit0lenda/PortFolio), [sites](https://github.com/Mit0lenda/sites), [siteengiproatt](https://github.com/Mit0lenda/siteengiproatt), [Codaryn-Landing-Page](https://github.com/Mit0lenda/Codaryn-Landing-Page), [multipartsite](https://github.com/Mit0lenda/multipartsite), [teamplates-clientes](https://github.com/Mit0lenda/teamplates-clientes)
-- APIs, templates, and deployment: [API-CodarynBLOG](https://github.com/Mit0lenda/API-CodarynBLOG), [Easypanel-training](https://github.com/Mit0lenda/Easypanel-training), [teamplates-codex](https://github.com/Mit0lenda/teamplates-codex), [obra-nav](https://github.com/Mit0lenda/obra-nav), [promo](https://github.com/Mit0lenda/promo)
-- Java track: [Automovel](https://github.com/Mit0lenda/Automovel), [PrimeiroProjeto](https://github.com/Mit0lenda/PrimeiroProjeto), [Java_Caldeira_2024](https://github.com/Mit0lenda/Java_Caldeira_2024), [Exercicios-modulo3](https://github.com/Mit0lenda/Exercicios-modulo3), [ScreenMatch](https://github.com/Mit0lenda/ScreenMatch), [exercicios](https://github.com/Mit0lenda/exercicios), [QuestoesJava](https://github.com/Mit0lenda/QuestoesJava), [TamagotchiJAVA](https://github.com/Mit0lenda/TamagotchiJAVA)
-- Frontend and language practice: [Aulas_JavaScript](https://github.com/Mit0lenda/Aulas_JavaScript), [Calculadora_Js](https://github.com/Mit0lenda/Calculadora_Js), [Css_moderno](https://github.com/Mit0lenda/Css_moderno), [Aula_em_C](https://github.com/Mit0lenda/Aula_em_C)
-- Programs, challenges, and community work: [Caldeira_2024](https://github.com/Mit0lenda/Caldeira_2024), [desafio-Mit0lenda-2024](https://github.com/Mit0lenda/desafio-Mit0lenda-2024), [Desafio-Promont](https://github.com/Mit0lenda/Desafio-Promont), [Nexus](https://github.com/Mit0lenda/Nexus), [Academy-Apple](https://github.com/Mit0lenda/Academy-Apple), [Curso_OneBitCode](https://github.com/Mit0lenda/Curso_OneBitCode), [aprendizado-git-github](https://github.com/Mit0lenda/aprendizado-git-github)
-- Personal experiments and one-offs: [Presente-gabi](https://github.com/Mit0lenda/Presente-gabi), [Nycollas-moretz](https://github.com/Mit0lenda/Nycollas-moretz), [voyager1](https://github.com/Mit0lenda/voyager1)
-
+`HTML` `CSS` `JavaScript` `React` `Next.js`
 </details>
 
-## CONTACT
+<details open>
+<summary><b>[+] BACK_END</b></summary>
+<br/>
 
-[![Email](https://img.shields.io/badge/EMAIL-NIDEOLIVEIRAFREITAS%40GMAIL.COM-F24A00?style=for-the-badge&labelColor=080808)](mailto:nideoliveirafreitas@gmail.com)
-[![Site](https://img.shields.io/badge/SEE_THE_SITE-00F5A0?style=for-the-badge&labelColor=080808)](https://mitolenda.dev/)
-[![LinkedIn](https://img.shields.io/badge/CONNECT_ON_LINKEDIN-00AEEF?style=for-the-badge&labelColor=080808)](https://www.linkedin.com/in/nicollasde/)
+`Node.js` `REST APIs` `Authentication`
+</details>
+
+<details open>
+<summary><b>[+] DATA_BASE</b></summary>
+<br/>
+
+`Supabase` `PostgreSQL` `Firebase`
+</details>
+
+<details open>
+<summary><b>[+] AUTOMATION</b></summary>
+<br/>
+
+`n8n` `Webhooks` `APIs` `Google Sheets` `WhatsApp API` `Chatwoot`
+</details>
+
+<details open>
+<summary><b>[+] TOOLS</b></summary>
+<br/>
+
+`Git` `GitHub` `Vercel` `VS Code` `Antigravity`
+</details>
+
+<br/>
+
+## ⬢ [ 03. FEATURED_PROJECTS ]
+
+<!-- 
+========================================================================
+⚡ INSTRUCTIONS TO EDIT PROJECTS ⚡
+Replace the placeholders (like [PROJECT_NAME], [DESCRIPTION], etc.) 
+with your real project data. You can also duplicate the <tr> tags to add new project rows!
+========================================================================
+-->
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><code>// PROJECT_01</code></h3>
+      <h2>[PROJECT_NAME]</h2>
+      <p><b>Description:</b> [DESCRIPTION]</p>
+      <p><b>Problem it solves:</b> [PROBLEM]</p>
+      <p><b>Tech:</b> <code>[TECHNOLOGIES]</code></p>
+      <p><b>Status:</b> 🟢 In production</p>
+      <a href="[LINK]"><strong>[ DEMO / REPO ]</strong></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3><code>// PROJECT_02</code></h3>
+      <h2>[PROJECT_NAME]</h2>
+      <p><b>Description:</b> [DESCRIPTION]</p>
+      <p><b>Problem it solves:</b> [PROBLEM]</p>
+      <p><b>Tech:</b> <code>[TECHNOLOGIES]</code></p>
+      <p><b>Status:</b> 🟡 In development</p>
+      <a href="[LINK]"><strong>[ DEMO / REPO ]</strong></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><code>// PROJECT_03</code></h3>
+      <h2>[PROJECT_NAME]</h2>
+      <p><b>Description:</b> [DESCRIPTION]</p>
+      <p><b>Problem it solves:</b> [PROBLEM]</p>
+      <p><b>Tech:</b> <code>[TECHNOLOGIES]</code></p>
+      <p><b>Status:</b> 🟣 Concept</p>
+      <a href="[LINK]"><strong>[ DEMO / REPO ]</strong></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3><code>// SYSTEM_READY</code></h3>
+      <p>New projects processing...</p>
+      <p>Please wait for more database updates.</p>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+## ⬢ [ 04. WHAT_I_BUILD ]
+
+- 🌐 **Professional institutional websites**
+- ⚡ **High-converting landing pages**
+- 💻 **Web systems**
+- 🤖 **n8n automations**
+- 🔗 **API integrations**
+- 💬 **WhatsApp chatbots & flows**
+- 📊 **Internal dashboards**
+
+<br/>
+
+## ⬢ [ 05. GITHUB_STATS ]
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mit0lenda&show_icons=true&theme=tokyonight&hide_border=true&bg_color=080808&title_color=F24A00&icon_color=00F5A0&text_color=A1A1AA" height="160" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mit0lenda&layout=compact&theme=tokyonight&hide_border=true&bg_color=080808&title_color=00AEEF&text_color=A1A1AA" height="160" alt="Top Languages" />
+</div>
+
+<br/>
+
+<hr style="border: 1px solid #181818;" />
+
+<div align="center">
+
+### Is a manual process holding your business back?
+<p style="color: #A1A1AA;">I can transform it into a website, system, or automation.</p>
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/VIEW_PORTFOLIO-F24A00?style=for-the-badge&logo=vercel&logoColor=F7F2E8)](https://mitolenda.dev/)
+[![WhatsApp](https://img.shields.io/badge/TALK_ON_WHATSAPP-00F5A0?style=for-the-badge&logo=whatsapp&logoColor=080808)](https://wa.me/555131999319)
+
+<br/>
+<p><code>[ EOF ]</code></p>
+</div>
