@@ -89,11 +89,11 @@ con los datos reales de tus proyectos. ¡También puedes duplicar las etiquetas 
   <tr>
     <td width="50%" valign="top">
       <h3><code>// PROYECTO_01</code></h3>
-      <h2>Atlas (Consultoría Financiera)</h2>
-      <p><b>Descripción:</b> Sistema interno completo para el adelanto de FGTS.</p>
-      <p><b>Problema que resuelve:</b> Automatiza la consulta de FGTS por CPF, gestionando el registro de empleados con validación segura por correo.</p>
-      <p><b>Tech:</b> <code>React, Node.js, Express, MySQL, API Bancaria</code></p>
-      <p><b>Estado:</b> 🟢 En producción</p>
+      <h2>Hermes (AI Comunicaciones)</h2>
+      <p><b>Descripción:</b> Plataforma de agentes conversacionales para WhatsApp integrando Chatwoot y n8n.</p>
+      <p><b>Problema que resuelve:</b> Enrutamiento inteligente de contexto, memoria continua y transferencia fluida a humanos en la atención.</p>
+      <p><b>Tech:</b> <code>n8n, Chatwoot, Supabase, Claude/GPT, Node.js</code></p>
+      <p><b>Estado:</b> 🟡 En desarrollo</p>
       <a href="https://github.com/Mit0lenda"><strong>[ ACCEDER ]</strong></a>
     </td>
     <td width="50%" valign="top">

@@ -89,11 +89,11 @@ with your real project data. You can also duplicate the <tr> tags to add new pro
   <tr>
     <td width="50%" valign="top">
       <h3><code>// PROJECT_01</code></h3>
-      <h2>Atlas (Consultoria Financeira)</h2>
-      <p><b>Description:</b> Complete internal system for FGTS anticipation.</p>
-      <p><b>Problem it solves:</b> Automates FGTS query by CPF, managing employee records with secure email validation.</p>
-      <p><b>Tech:</b> <code>React, Node.js, Express, MySQL, Bank API</code></p>
-      <p><b>Status:</b> 🟢 In production</p>
+      <h2>Hermes (AI Communications)</h2>
+      <p><b>Description:</b> Conversational AI platform for WhatsApp integrating Chatwoot and n8n.</p>
+      <p><b>Problem it solves:</b> Intelligent context routing, continuous conversation memory, and seamless human handoff in customer service.</p>
+      <p><b>Tech:</b> <code>n8n, Chatwoot, Supabase, Claude/GPT, Node.js</code></p>
+      <p><b>Status:</b> 🟡 In development</p>
       <a href="https://github.com/Mit0lenda"><strong>[ ACCESS ]</strong></a>
     </td>
     <td width="50%" valign="top">
