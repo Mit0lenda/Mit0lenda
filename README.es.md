@@ -117,9 +117,13 @@ con los datos reales de tus proyectos. ¡También puedes duplicar las etiquetas 
       <a href="https://github.com/Mit0lenda"><strong>[ ACCEDER ]</strong></a>
     </td>
     <td width="50%" valign="top">
-      <h3><code>// SYSTEM_READY</code></h3>
-      <p>Nuevos proyectos en procesamiento...</p>
-      <p>Espere por más actualizaciones en la base de datos.</p>
+      <h3><code>// PROYECTO_04</code></h3>
+      <h2>White Label Academy</h2>
+      <p><b>Descripción:</b> Plataforma SaaS educativa (Web/Mobile) con infraestructura Multi-Tenant.</p>
+      <p><b>Tech:</b> <code>Next.js, Supabase, Capacitor, SSR</code></p>
+      <p><b>Estado:</b> 🟣 Fase Inicial (Arquitectura)</p>
+      <br/>
+      <p><em>+ Otros proyectos confidenciales en curso...</em></p>
     </td>
   </tr>
 </table>

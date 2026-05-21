@@ -117,9 +117,13 @@ with your real project data. You can also duplicate the <tr> tags to add new pro
       <a href="https://github.com/Mit0lenda"><strong>[ ACCESS ]</strong></a>
     </td>
     <td width="50%" valign="top">
-      <h3><code>// SYSTEM_READY</code></h3>
-      <p>New projects processing...</p>
-      <p>Please wait for more database updates.</p>
+      <h3><code>// PROJECT_04</code></h3>
+      <h2>White Label Academy</h2>
+      <p><b>Description:</b> Educational SaaS platform (Web/Mobile) with Multi-Tenant infrastructure.</p>
+      <p><b>Tech:</b> <code>Next.js, Supabase, Capacitor, SSR</code></p>
+      <p><b>Status:</b> 🟣 Initial Phase (Architecture)</p>
+      <br/>
+      <p><em>+ Other confidential projects in progress...</em></p>
     </td>
   </tr>
 </table>
