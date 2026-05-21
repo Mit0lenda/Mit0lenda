@@ -89,32 +89,32 @@ with your real project data. You can also duplicate the <tr> tags to add new pro
   <tr>
     <td width="50%" valign="top">
       <h3><code>// PROJECT_01</code></h3>
-      <h2>[PROJECT_NAME]</h2>
-      <p><b>Description:</b> [DESCRIPTION]</p>
-      <p><b>Problem it solves:</b> [PROBLEM]</p>
-      <p><b>Tech:</b> <code>[TECHNOLOGIES]</code></p>
+      <h2>Atlas (Consultoria Financeira)</h2>
+      <p><b>Description:</b> Complete internal system for FGTS anticipation.</p>
+      <p><b>Problem it solves:</b> Automates FGTS query by CPF, managing employee records with secure email validation.</p>
+      <p><b>Tech:</b> <code>React, Node.js, Express, MySQL, Bank API</code></p>
       <p><b>Status:</b> 🟢 In production</p>
-      <a href="[LINK]"><strong>[ DEMO / REPO ]</strong></a>
+      <a href="https://github.com/Mit0lenda"><strong>[ ACCESS ]</strong></a>
     </td>
     <td width="50%" valign="top">
       <h3><code>// PROJECT_02</code></h3>
-      <h2>[PROJECT_NAME]</h2>
-      <p><b>Description:</b> [DESCRIPTION]</p>
-      <p><b>Problem it solves:</b> [PROBLEM]</p>
-      <p><b>Tech:</b> <code>[TECHNOLOGIES]</code></p>
+      <h2>Nexus (PropTech Startup)</h2>
+      <p><b>Description:</b> Web platform for intelligent construction monitoring.</p>
+      <p><b>Problem it solves:</b> Lack of real-time visibility in construction sites, using AI for object recognition.</p>
+      <p><b>Tech:</b> <code>HTML, CSS, JS, Node.js, Python, AI</code></p>
       <p><b>Status:</b> 🟡 In development</p>
-      <a href="[LINK]"><strong>[ DEMO / REPO ]</strong></a>
+      <a href="https://github.com/Mit0lenda"><strong>[ ACCESS ]</strong></a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3><code>// PROJECT_03</code></h3>
-      <h2>[PROJECT_NAME]</h2>
-      <p><b>Description:</b> [DESCRIPTION]</p>
-      <p><b>Problem it solves:</b> [PROBLEM]</p>
-      <p><b>Tech:</b> <code>[TECHNOLOGIES]</code></p>
-      <p><b>Status:</b> 🟣 Concept</p>
-      <a href="[LINK]"><strong>[ DEMO / REPO ]</strong></a>
+      <h2>Haven Link (iTwin4Good)</h2>
+      <p><b>Description:</b> Intelligent emergency logistics tool during the RS floods.</p>
+      <p><b>Problem it solves:</b> Deficit in supply distribution, optimizing routes via visual AI and automated mapping.</p>
+      <p><b>Tech:</b> <code>Python, Computer Vision, AI</code></p>
+      <p><b>Status:</b> 🟢 3rd Place National</p>
+      <a href="https://github.com/Mit0lenda"><strong>[ ACCESS ]</strong></a>
     </td>
     <td width="50%" valign="top">
       <h3><code>// SYSTEM_READY</code></h3>
@@ -141,8 +141,8 @@ with your real project data. You can also duplicate the <tr> tags to add new pro
 ## ⬢ [ 05. GITHUB_STATS ]
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mit0lenda&show_icons=true&theme=tokyonight&hide_border=true&bg_color=080808&title_color=F24A00&icon_color=00F5A0&text_color=A1A1AA" height="160" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mit0lenda&layout=compact&theme=tokyonight&hide_border=true&bg_color=080808&title_color=00AEEF&text_color=A1A1AA" height="160" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mit0lenda&show_icons=true&theme=tokyonight&hide_border=true&bg_color=080808&title_color=F24A00&icon_color=00F5A0&text_color=A1A1AA" height="160" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mit0lenda&layout=compact&theme=tokyonight&hide_border=true&bg_color=080808&title_color=00AEEF&text_color=A1A1AA" height="160" alt="Top Languages" />
 </div>
 
 <br/>

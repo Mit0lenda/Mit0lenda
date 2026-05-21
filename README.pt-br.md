@@ -89,32 +89,32 @@ com os dados reais dos seus projetos. Você também pode duplicar as tags <tr> p
   <tr>
     <td width="50%" valign="top">
       <h3><code>// PROJETO_01</code></h3>
-      <h2>[NOME_DO_PROJETO]</h2>
-      <p><b>Descrição:</b> [DESCRIÇÃO]</p>
-      <p><b>Problema que resolve:</b> [PROBLEMA]</p>
-      <p><b>Tech:</b> <code>[TECNOLOGIAS]</code></p>
+      <h2>Atlas (Consultoria Financeira)</h2>
+      <p><b>Descrição:</b> Sistema interno completo para antecipação de FGTS.</p>
+      <p><b>Problema que resolve:</b> Automatiza consulta de FGTS por CPF, gerenciando cadastro de funcionários com validação segura via e-mail.</p>
+      <p><b>Tech:</b> <code>React, Node.js, Express, MySQL, API Bancária</code></p>
       <p><b>Status:</b> 🟢 Em produção</p>
-      <a href="[LINK]"><strong>[ DEMO / REPO ]</strong></a>
+      <a href="https://github.com/Mit0lenda"><strong>[ ACESSAR ]</strong></a>
     </td>
     <td width="50%" valign="top">
       <h3><code>// PROJETO_02</code></h3>
-      <h2>[NOME_DO_PROJETO]</h2>
-      <p><b>Descrição:</b> [DESCRIÇÃO]</p>
-      <p><b>Problema que resolve:</b> [PROBLEMA]</p>
-      <p><b>Tech:</b> <code>[TECNOLOGIAS]</code></p>
+      <h2>Nexus (Startup PropTech)</h2>
+      <p><b>Descrição:</b> Plataforma web para monitoramento inteligente de obras.</p>
+      <p><b>Problema que resolve:</b> Falta de visibilidade em tempo real nos canteiros de obras, utilizando IA para reconhecimento de objetos.</p>
+      <p><b>Tech:</b> <code>HTML, CSS, JS, Node.js, Python, IA</code></p>
       <p><b>Status:</b> 🟡 Em desenvolvimento</p>
-      <a href="[LINK]"><strong>[ DEMO / REPO ]</strong></a>
+      <a href="https://github.com/Mit0lenda"><strong>[ ACESSAR ]</strong></a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3><code>// PROJETO_03</code></h3>
-      <h2>[NOME_DO_PROJETO]</h2>
-      <p><b>Descrição:</b> [DESCRIÇÃO]</p>
-      <p><b>Problema que resolve:</b> [PROBLEMA]</p>
-      <p><b>Tech:</b> <code>[TECNOLOGIAS]</code></p>
-      <p><b>Status:</b> 🟣 Conceito</p>
-      <a href="[LINK]"><strong>[ DEMO / REPO ]</strong></a>
+      <h2>Haven Link (iTwin4Good)</h2>
+      <p><b>Descrição:</b> Ferramenta inteligente para logística emergencial nas enchentes do RS.</p>
+      <p><b>Problema que resolve:</b> Déficit na distribuição de suprimentos, otimizando rotas com IA visual e mapeamento automatizado.</p>
+      <p><b>Tech:</b> <code>Python, Visão Computacional, IA</code></p>
+      <p><b>Status:</b> 🟢 3º Lugar Nacional</p>
+      <a href="https://github.com/Mit0lenda"><strong>[ ACESSAR ]</strong></a>
     </td>
     <td width="50%" valign="top">
       <h3><code>// SYSTEM_READY</code></h3>
@@ -141,8 +141,8 @@ com os dados reais dos seus projetos. Você também pode duplicar as tags <tr> p
 ## ⬢ [ 05. GITHUB_STATS ]
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mit0lenda&show_icons=true&theme=tokyonight&hide_border=true&bg_color=080808&title_color=F24A00&icon_color=00F5A0&text_color=A1A1AA" height="160" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mit0lenda&layout=compact&theme=tokyonight&hide_border=true&bg_color=080808&title_color=00AEEF&text_color=A1A1AA" height="160" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mit0lenda&show_icons=true&theme=tokyonight&hide_border=true&bg_color=080808&title_color=F24A00&icon_color=00F5A0&text_color=A1A1AA" height="160" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mit0lenda&layout=compact&theme=tokyonight&hide_border=true&bg_color=080808&title_color=00AEEF&text_color=A1A1AA" height="160" alt="Top Languages" />
 </div>
 
 <br/>
