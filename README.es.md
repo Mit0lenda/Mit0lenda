@@ -10,150 +10,60 @@
 
 # [ DEV_MITOLENDA ]
 
-<br/>
+> Creo sitios web, sistemas, APIs y automatizaciones orientados a problemas reales de negocio.
 
-> **"Creo sitios web, sistemas y automatizaciones para negocios que quieren vender más, operar mejor y dejar de perder tiempo con procesos manuales."**
+`sistemas full-stack` • `APIs` • `n8n` • `integraciones con IA` • `productos digitales`
 
-`Desarrollo web` • `n8n` • `APIs` • `automatizaciones` • `sistemas a medida` • `presencia digital`
+[![Portafolio](https://img.shields.io/badge/Portafolio-080808?style=for-the-badge&logo=vercel&logoColor=F7F2E8)](https://mitolenda.dev/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-080808?style=for-the-badge&logo=linkedin&logoColor=00AEEF)](https://linkedin.com/in/nicollasde)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-080808?style=for-the-badge&logo=whatsapp&logoColor=00F5A0)](https://wa.me/555131999319)
+[![Email](https://img.shields.io/badge/Email-080808?style=for-the-badge&logo=minutemailer&logoColor=F24A00)](mailto:devmitolenda@gmail.com)
 
-<br/>
-
-[![Portfolio](https://img.shields.io/badge/Portafolio-%23080808?style=for-the-badge&logo=vercel&logoColor=F7F2E8&borderColor=00AEEF)](https://mitolenda.dev/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%23080808?style=for-the-badge&logo=linkedin&logoColor=00AEEF)](https://linkedin.com/in/nicollasde)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-%23080808?style=for-the-badge&logo=whatsapp&logoColor=00F5A0)](https://wa.me/555131999319)
-[![Email](https://img.shields.io/badge/Email-%23080808?style=for-the-badge&logo=minutemailer&logoColor=F24A00)](mailto:devmitolenda@gmail.com)
-
-<br/>
-<hr style="border: 1px solid #181818;" />
 </div>
 
-## ⬢ [ 01. SOBRE_MI ]
+## 01 // SOBRE MÍ
 
-- 🔭 Actualmente trabajando como **Especialista en Agentes de IA y Automatizaciones**
-- 🧠 Enfoque principal en **Inteligencia Artificial, Automatización (n8n) y Sistemas Full-Stack**
+Trabajo con desarrollo web, integraciones y automatización. Mi enfoque actual es convertir procesos manuales en software mantenible, con documentación clara y un flujo profesional en GitHub.
 
-<br/>
+## 02 // TRABAJOS PÚBLICOS SELECCIONADOS
 
-## ⬢ [ 02. TECH_STACK ]
+### [DEV_MITOLENDA Terminal](https://github.com/Mit0lenda/dev-mitolenda-terminal)
 
-<details open>
-<summary><b>[+] TECH_STACK & IA:</b></summary>
-<br/>
+Prompt Starship compartido entre macOS y Windows, con instaladores seguros, copias de respaldo, diagnóstico y documentación en portugués, inglés y español.
 
-`n8n` `Supabase` `Claude/OpenAI` `TypeScript` `React.js` `Node.js` `Python` `Docker` `Stripe`
-</details>
+`Shell` `PowerShell` `Starship` `Git`
 
-<details open>
-<summary><b>[+] DATA_BASE</b></summary>
-<br/>
+### [Haven Link — Equipo Nexus](https://github.com/Mit0lenda/Nexus)
 
-`Supabase` `PostgreSQL` `Firebase`
-</details>
+Proyecto de equipo realizado en 2024 para Gênio Digital iTwin Brasil, creado para centralizar información de inventario con apoyo de cámara e IA.
 
-<details open>
-<summary><b>[+] AUTOMATION</b></summary>
-<br/>
+`Python` `IA` `iTwin` `Proyecto de equipo`
 
-`n8n` `Webhooks` `APIs` `Google Sheets` `WhatsApp API` `Chatwoot`
-</details>
+### [API de visualizaciones de Codaryn Blog](https://github.com/Mit0lenda/API-CodarynBLOG)
 
-<details open>
-<summary><b>[+] TOOLS</b></summary>
-<br/>
+API serverless que valida los identificadores de las publicaciones y registra visualizaciones con Supabase.
 
-`Git` `GitHub` `Vercel` `VS Code` `Antigravity`
-</details>
+`API` `Serverless` `Supabase` `Vercel`
 
-<br/>
+## 03 // HERRAMIENTAS
 
-## ⬢ [ 03. PROYECTOS_DESTACADOS ]
+`TypeScript` `React` `Node.js` `Python` `PostgreSQL` `Supabase` `Docker` `n8n` `Git` `GitHub`
 
-<!-- 
-========================================================================
-⚡ INSTRUCCIONES PARA EDITAR PROYECTOS ⚡
-Reemplaza los marcadores (como [NOMBRE_DEL_PROYECTO], [DESCRIPCIÓN], etc.) 
-con los datos reales de tus proyectos. ¡También puedes duplicar las etiquetas <tr> para añadir nuevas filas de proyectos!
-========================================================================
--->
+## 04 // CÓMO TRABAJO
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><code>// PROYECTO_01</code></h3>
-      <h2>Hermes (AI Comunicaciones)</h2>
-      <p><b>Descripción:</b> Plataforma de agentes conversacionales para WhatsApp integrando Chatwoot y n8n.</p>
-      <p><b>Problema que resuelve:</b> Enrutamiento inteligente de contexto, memoria continua y transferencia fluida a humanos en la atención.</p>
-      <p><b>Tech:</b> <code>n8n, Chatwoot, Supabase, Claude/GPT, Node.js</code></p>
-      <p><b>Estado:</b> 🟡 En desarrollo</p>
-      <a href="https://mitolenda.dev/#contact"><strong>[ CONTACTARME ]</strong></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3><code>// PROYECTO_02</code></h3>
-      <h2>Nexus (Startup PropTech)</h2>
-      <p><b>Descripción:</b> Plataforma web para el monitoreo inteligente de obras.</p>
-      <p><b>Problema que resuelve:</b> Falta de visibilidad en tiempo real en las construcciones, usando IA para reconocimiento de objetos.</p>
-      <p><b>Tech:</b> <code>HTML, CSS, JS, Node.js, Python, IA</code></p>
-      <p><b>Estado:</b> 🟡 En desarrollo</p>
-      <a href="https://mitolenda.dev/#contact"><strong>[ CONTACTARME ]</strong></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><code>// PROYECTO_03</code></h3>
-      <h2>Haven Link (iTwin4Good)</h2>
-      <p><b>Descripción:</b> Herramienta inteligente de logística de emergencia durante inundaciones en RS.</p>
-      <p><b>Problema que resuelve:</b> Déficit en la distribución de suministros, optimizando rutas con IA visual y mapeo automatizado.</p>
-      <p><b>Tech:</b> <code>Python, Visión por Computadora, IA</code></p>
-      <p><b>Estado:</b> 🟢 3º Lugar Nacional</p>
-      <a href="https://mitolenda.dev/#contact"><strong>[ CONTACTARME ]</strong></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3><code>// PROYECTO_04</code></h3>
-      <h2>White Label Academy</h2>
-      <p><b>Descripción:</b> Plataforma SaaS educativa (Web/Mobile) con infraestructura Multi-Tenant.</p>
-      <p><b>Tech:</b> <code>Next.js, Supabase, Capacitor, SSR</code></p>
-      <p><b>Estado:</b> 🟣 Fase Inicial (Arquitectura)</p>
-      <br/>
-      <p><em>+ Otros proyectos confidenciales en curso...</em></p>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-## ⬢ [ 04. LO_QUE_CONSTRUYO ]
-
-- 🌐 **Sitios institucionales profesionales**
-- ⚡ **Landing pages de alta conversión**
-- 💻 **Sistemas web**
-- 🤖 **Automatizaciones con n8n**
-- 🔗 **Integraciones de APIs**
-- 💬 **Chatbots y flujos para WhatsApp**
-- 📊 **Dashboards y paneles internos**
-
-<br/>
-
-## ⬢ [ 05. GITHUB_STATS ]
-
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Mit0lenda&show_icons=true&theme=tokyonight&hide_border=true&bg_color=080808&title_color=F24A00&icon_color=00F5A0&text_color=A1A1AA" height="160" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Mit0lenda&layout=compact&theme=tokyonight&hide_border=true&bg_color=080808&title_color=00AEEF&text_color=A1A1AA" height="160" alt="Top Languages" />
-</div>
-
-<br/>
-
-<hr style="border: 1px solid #181818;" />
+- Una issue define el problema y los criterios de aceptación.
+- Una branch aísla el trabajo.
+- Commits pequeños explican la evolución.
+- Un pull request muestra el diff, las pruebas y los riesgos.
+- Los cambios en producción requieren una lista de deploy y rollback.
 
 <div align="center">
 
-### ¿Un proceso manual está frenando tu negocio?
-<p style="color: #A1A1AA;">Puedo transformarlo en un sitio web, sistema o automatización.</p>
-
-<br/>
+### ¿Necesitas un sitio web, sistema o automatización?
 
 [![Portafolio](https://img.shields.io/badge/VER_PORTAFOLIO-F24A00?style=for-the-badge&logo=vercel&logoColor=F7F2E8)](https://mitolenda.dev/)
-[![WhatsApp](https://img.shields.io/badge/HABLAR_POR_WHATSAPP-00F5A0?style=for-the-badge&logo=whatsapp&logoColor=080808)](https://wa.me/555131999319)
+[![Contacto](https://img.shields.io/badge/CONTACTO-00F5A0?style=for-the-badge&logo=whatsapp&logoColor=080808)](https://mitolenda.dev/contato)
 
-<br/>
-<p><code>[ EOF ]</code></p>
+`[ EOF ]`
+
 </div>
