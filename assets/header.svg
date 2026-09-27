@@ -1,85 +1,53 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 250" width="100%" height="250">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 250" width="100%" height="250" role="img" aria-label="DEV_MITOLENDA — mitolenda.dev">
   <style>
-    @keyframes blink {
-      0%, 100% { opacity: 1; }
-      50% { opacity: 0; }
+    .paper { fill: #F2EFE7; }
+    .ink { fill: #0D0D0D; }
+    .accent { fill: #D6220F; }
+    .kicker {
+      font-family: 'Geist Mono', ui-monospace, 'SFMono-Regular', Menlo, Consolas, monospace;
+      font-size: 12px;
+      letter-spacing: 0.14em;
+      fill: #6E6A63;
     }
-    @keyframes scanline {
-      0% { transform: translateY(-100%); }
-      100% { transform: translateY(250px); }
+    .cover {
+      font-family: 'Big Shoulders Display', 'Arial Narrow', 'Helvetica Neue', Arial, sans-serif;
+      font-weight: 800;
+      letter-spacing: -0.01em;
     }
-    @keyframes glitch {
-      0% { transform: translate(0) }
-      10% { transform: translate(-2px, 2px) }
-      20% { transform: translate(2px, -2px) }
-      30% { transform: translate(0) }
-      100% { transform: translate(0) }
-    }
-    
-    .bg { fill: #080808; }
-    .text-main { font-family: 'Consolas', 'Courier New', monospace; fill: #F7F2E8; font-size: 22px; font-weight: bold; }
-    .text-dim { font-family: 'Consolas', 'Courier New', monospace; fill: #A1A1AA; font-size: 14px; }
-    .text-accent-1 { fill: #F24A00; }
-    .text-accent-2 { fill: #00AEEF; }
-    .text-accent-3 { fill: #00F5A0; }
-    
-    .cursor {
-      animation: blink 1s step-end infinite;
-      fill: #00F5A0;
-    }
-    .scanline {
-      fill: rgba(247, 242, 232, 0.02);
-      animation: scanline 6s linear infinite;
-    }
-    .glitch {
-      animation: glitch 4s infinite;
-    }
-    .glitch-2 {
-      animation: glitch 4s infinite;
-      animation-delay: 0.1s;
-      fill: #00AEEF;
-      opacity: 0.7;
-    }
-    .glitch-3 {
-      animation: glitch 4s infinite;
-      animation-delay: -0.1s;
-      fill: #F24A00;
-      opacity: 0.7;
+    .sticker-text {
+      font-family: 'Geist Mono', ui-monospace, 'SFMono-Regular', Menlo, Consolas, monospace;
+      font-size: 11px;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
     }
   </style>
 
-  <rect width="100%" height="100%" class="bg" />
-  
-  <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse">
-    <path d="M 30 0 L 0 0 0 30" fill="none" stroke="rgba(161, 161, 170, 0.04)" stroke-width="1"/>
-  </pattern>
-  <rect width="100%" height="100%" fill="url(#grid)" />
+  <!-- fundo chapado — sem gradiente, sem textura -->
+  <rect width="800" height="250" class="paper" />
 
-  <rect width="100%" height="15px" class="scanline" />
-  
-  <g transform="translate(40, 45)">
-    <text class="text-dim" x="0" y="0">MITOLENDA_OS // v2026.1.0-stable</text>
-    <text class="text-dim" x="0" y="22">> INIT KERNEL... [OK]</text>
-    <text class="text-dim" x="0" y="44">> MOUNTING FILESYSTEM... [OK]</text>
-    <text class="text-dim" x="0" y="66">> STARTING SERVICES... [OK]</text>
-    
-    <g transform="translate(0, 110)">
-      <text class="text-main" x="0" y="0">
-        <tspan class="text-accent-2">dev@mitolenda</tspan><tspan class="text-dim">:~#</tspan> <tspan class="text-accent-3">./deploy_future.sh</tspan>
-      </text>
-      <rect class="cursor" x="420" y="-18" width="12" height="22" />
-    </g>
+  <!-- kicker: crédito mono, maiúscula permitida só aqui -->
+  <text x="40" y="40" class="kicker">MITOLENDA.DEV</text>
+  <text x="760" y="40" class="kicker" text-anchor="end">SYSTEM DESIGN PORTFOLIO</text>
 
-    <g transform="translate(0, 170)">
-      <text class="text-main glitch-2" x="-2" y="0" style="font-size: 40px; font-weight: 900; letter-spacing: 2px;">
-        <tspan class="text-accent-1">[</tspan> DEV_MITOLENDA <tspan class="text-accent-1">]</tspan>
-      </text>
-      <text class="text-main glitch-3" x="2" y="0" style="font-size: 40px; font-weight: 900; letter-spacing: 2px;">
-        <tspan class="text-accent-1">[</tspan> DEV_MITOLENDA <tspan class="text-accent-1">]</tspan>
-      </text>
-      <text class="text-main glitch" x="0" y="0" style="font-size: 40px; font-weight: 900; letter-spacing: 2px;">
-        <tspan class="text-accent-1">[</tspan> DEV_MITOLENDA <tspan class="text-accent-1">]</tspan>
-      </text>
-    </g>
+  <!-- régua pesada — assinatura visual, acima da manchete -->
+  <rect x="40" y="52" width="720" height="4" class="ink" />
+
+  <!-- manchete-capa: marca centrada, colchetes em vermelho como único acento -->
+  <text x="400" y="150" text-anchor="middle" class="cover ink" style="font-size:58px;">
+    <tspan class="accent">[</tspan> DEV_MITOLENDA <tspan class="accent">]</tspan>
+  </text>
+
+  <!-- régua pesada — abaixo da manchete -->
+  <rect x="40" y="180" width="720" height="4" class="ink" />
+
+  <!-- stickers: etiqueta mono inclinada — máximo dois -->
+  <g transform="rotate(3 155 213)">
+    <rect x="97" y="199" width="116" height="28" fill="#0D0D0D" />
+    <text x="155" y="217" text-anchor="middle" class="sticker-text" fill="#F2EFE7">system design</text>
+  </g>
+
+  <g transform="rotate(-2.5 645 213)">
+    <rect x="583" y="199" width="124" height="28" fill="#FF5A00" stroke="#0D0D0D" stroke-width="1" />
+    <text x="645" y="217" text-anchor="middle" class="sticker-text" fill="#0D0D0D">mitolenda.dev</text>
   </g>
 </svg>

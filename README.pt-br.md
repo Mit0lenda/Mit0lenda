@@ -14,10 +14,10 @@
 
 `sistemas full-stack` • `APIs` • `n8n` • `integrações com IA` • `produtos digitais`
 
-[![Portfólio](https://img.shields.io/badge/Portfólio-080808?style=for-the-badge&logo=vercel&logoColor=F7F2E8)](https://mitolenda.dev/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-080808?style=for-the-badge&logo=linkedin&logoColor=00AEEF)](https://linkedin.com/in/nicollasde)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-080808?style=for-the-badge&logo=whatsapp&logoColor=00F5A0)](https://wa.me/555131999319)
-[![Email](https://img.shields.io/badge/Email-080808?style=for-the-badge&logo=minutemailer&logoColor=F24A00)](mailto:devmitolenda@gmail.com)
+[![Portfólio](https://img.shields.io/badge/Portfólio-FF5A00?style=for-the-badge&logo=vercel&logoColor=0D0D0D)](https://mitolenda.dev/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=F2EFE7)](https://linkedin.com/in/nicollasde)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-0D0D0D?style=for-the-badge&logo=whatsapp&logoColor=F2EFE7)](https://wa.me/555131999319)
+[![Email](https://img.shields.io/badge/Email-0D0D0D?style=for-the-badge&logo=minutemailer&logoColor=F2EFE7)](mailto:devmitolenda@gmail.com)
 
 </div>
 
@@ -65,8 +65,8 @@ Projeto de equipe em 2024 para o Gênio Digital iTwin Brasil — 3º lugar nacio
 
 ### Precisa de um site, sistema ou automação?
 
-[![Portfólio](https://img.shields.io/badge/VER_PORTFÓLIO-F24A00?style=for-the-badge&logo=vercel&logoColor=F7F2E8)](https://mitolenda.dev/)
-[![Contato](https://img.shields.io/badge/CONTATO-00F5A0?style=for-the-badge&logo=whatsapp&logoColor=080808)](https://mitolenda.dev/contato)
+[![Portfólio](https://img.shields.io/badge/VER_PORTFÓLIO-FF5A00?style=for-the-badge&logo=vercel&logoColor=0D0D0D)](https://mitolenda.dev/)
+[![Contato](https://img.shields.io/badge/CONTATO-0D0D0D?style=for-the-badge&logo=whatsapp&logoColor=F2EFE7)](https://mitolenda.dev/contato)
 
 `[ EOF ]`
 
