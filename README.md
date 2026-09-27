@@ -37,11 +37,11 @@ I work on web development, integrations and automation. My current focus is turn
   <img src="assets/rule-light.svg" width="100%" height="6" alt="">
 </picture>
 
-System-design case studies from the portfolio monorepo — real product screens where they exist, verified architecture diagrams where they don't. No invented metrics.
+Case studies from the portfolio monorepo: real product screens where they exist, verified architecture diagrams where they don't, no invented metrics.
 
 ### [Aurora CPM](https://mitolenda.dev/case-studies/cpm/index.html)
 
-B2B commercial pipeline with 11 weighted stages — forecast and deal temperature calculated on the backend, not manual entry.
+B2B commercial pipeline with 11 weighted stages. Forecast and deal temperature come from the backend, not manual entry.
 
 ![Staging UI](https://img.shields.io/badge/Staging_UI-FF5A00?style=flat-square) ![NestJS](https://img.shields.io/badge/NestJS-0D0D0D?style=flat-square) ![React](https://img.shields.io/badge/React-0D0D0D?style=flat-square) ![Flutter](https://img.shields.io/badge/Flutter-0D0D0D?style=flat-square) ![Supabase](https://img.shields.io/badge/Supabase-0D0D0D?style=flat-square) ![RBAC](https://img.shields.io/badge/RBAC-0D0D0D?style=flat-square)
 
@@ -51,13 +51,13 @@ Agricultural diagnostics comparing sensor readings to species- and age-specific 
 
 ![Dev UI](https://img.shields.io/badge/Dev_UI-FF5A00?style=flat-square) ![Java 17](https://img.shields.io/badge/Java_17-0D0D0D?style=flat-square) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-0D0D0D?style=flat-square) ![Flutter](https://img.shields.io/badge/Flutter-0D0D0D?style=flat-square) ![pgvector](https://img.shields.io/badge/pgvector-0D0D0D?style=flat-square) ![OpenRouter](https://img.shields.io/badge/OpenRouter-0D0D0D?style=flat-square)
 
-### [Haven Link — Time Nexus](https://github.com/Mit0lenda/Nexus)
+### [Haven Link · Time Nexus](https://github.com/Mit0lenda/Nexus)
 
-A 2024 team project for Gênio Digital iTwin Brasil — 3rd place national, incubated at CEI-UFRGS — centralizing inventory state with shelf-scanning cameras and computer vision.
+A 2024 team project for Gênio Digital iTwin Brasil that centralizes inventory state with shelf-scanning cameras and computer vision. 3rd place national, incubated at CEI-UFRGS.
 
 ![Public repo](https://img.shields.io/badge/Public_repo-FF5A00?style=flat-square) ![Award](https://img.shields.io/badge/Award-FF5A00?style=flat-square) ![Python](https://img.shields.io/badge/Python-0D0D0D?style=flat-square) ![iTwin](https://img.shields.io/badge/iTwin-0D0D0D?style=flat-square) ![Computer vision](https://img.shields.io/badge/Computer_vision-0D0D0D?style=flat-square)
 
-> 📐 More case studies — Nexus System, Sistema Jurídico, Contta, Obra Nav — at [mitolenda.dev](https://mitolenda.dev/).
+> 📐 More case studies (Nexus System, Sistema Jurídico, Contta, Obra Nav) at [mitolenda.dev](https://mitolenda.dev/).
 
 ## 03 // TOOLBOX
 

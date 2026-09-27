@@ -37,11 +37,11 @@ Trabajo con desarrollo web, integraciones y automatización. Mi enfoque actual e
   <img src="assets/rule-light.svg" width="100%" height="6" alt="">
 </picture>
 
-Estudios de caso de diseño de sistemas del portfolio — pantallas reales de producto cuando existen, diagramas de arquitectura verificados cuando no. Sin métricas inventadas.
+Estudios de caso del portfolio: pantallas reales de producto cuando existen, diagramas de arquitectura verificados cuando no, sin métricas inventadas.
 
 ### [Aurora CPM](https://mitolenda.dev/case-studies/cpm/index.html)
 
-Pipeline comercial B2B con 11 etapas ponderadas — forecast y temperatura del negocio calculados en el backend, sin ingreso manual.
+Pipeline comercial B2B con 11 etapas ponderadas. Forecast y temperatura del negocio salen del backend, sin ingreso manual.
 
 ![UI de staging](https://img.shields.io/badge/UI_de_staging-FF5A00?style=flat-square) ![NestJS](https://img.shields.io/badge/NestJS-0D0D0D?style=flat-square) ![React](https://img.shields.io/badge/React-0D0D0D?style=flat-square) ![Flutter](https://img.shields.io/badge/Flutter-0D0D0D?style=flat-square) ![Supabase](https://img.shields.io/badge/Supabase-0D0D0D?style=flat-square) ![RBAC](https://img.shields.io/badge/RBAC-0D0D0D?style=flat-square)
 
@@ -51,13 +51,13 @@ Diagnóstico agrícola que compara cada lectura de sensor con la franja agronóm
 
 ![UI de dev](https://img.shields.io/badge/UI_de_dev-FF5A00?style=flat-square) ![Java 17](https://img.shields.io/badge/Java_17-0D0D0D?style=flat-square) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-0D0D0D?style=flat-square) ![Flutter](https://img.shields.io/badge/Flutter-0D0D0D?style=flat-square) ![pgvector](https://img.shields.io/badge/pgvector-0D0D0D?style=flat-square) ![OpenRouter](https://img.shields.io/badge/OpenRouter-0D0D0D?style=flat-square)
 
-### [Haven Link — Equipo Nexus](https://github.com/Mit0lenda/Nexus)
+### [Haven Link · Equipo Nexus](https://github.com/Mit0lenda/Nexus)
 
-Proyecto de equipo en 2024 para Gênio Digital iTwin Brasil — 3.º lugar nacional, incubado en CEI-UFRGS — centralizando el inventario con cámaras que escanean estantes y visión por computadora.
+Proyecto de equipo en 2024 para Gênio Digital iTwin Brasil que centraliza el inventario con cámaras que escanean estantes y visión por computadora. 3.º lugar nacional, incubado en CEI-UFRGS.
 
 ![Repo público](https://img.shields.io/badge/Repo_p%C3%BAblico-FF5A00?style=flat-square) ![Premio](https://img.shields.io/badge/Premio-FF5A00?style=flat-square) ![Python](https://img.shields.io/badge/Python-0D0D0D?style=flat-square) ![iTwin](https://img.shields.io/badge/iTwin-0D0D0D?style=flat-square) ![Visión por computadora](https://img.shields.io/badge/Visi%C3%B3n_por_computadora-0D0D0D?style=flat-square)
 
-> 📐 Más estudios de caso — Nexus System, Sistema Jurídico, Contta, Obra Nav — en [mitolenda.dev](https://mitolenda.dev/).
+> 📐 Más estudios de caso (Nexus System, Sistema Jurídico, Contta, Obra Nav) en [mitolenda.dev](https://mitolenda.dev/).
 
 ## 03 // HERRAMIENTAS
 
