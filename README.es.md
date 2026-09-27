@@ -12,7 +12,7 @@
 
 > Creo sitios web, sistemas, APIs y automatizaciones orientados a problemas reales de negocio.
 
-`sistemas full-stack` • `APIs` • `n8n` • `integraciones con IA` • `productos digitales`
+![sistemas full-stack](https://img.shields.io/badge/sistemas_full--stack-0D0D0D?style=flat-square) ![APIs](https://img.shields.io/badge/APIs-0D0D0D?style=flat-square) ![n8n](https://img.shields.io/badge/n8n-0D0D0D?style=flat-square) ![integraciones con IA](https://img.shields.io/badge/integraciones_con_IA-0D0D0D?style=flat-square) ![productos digitales](https://img.shields.io/badge/productos_digitales-0D0D0D?style=flat-square)
 
 [![Portafolio](https://img.shields.io/badge/Portafolio-FF5A00?style=for-the-badge&logo=vercel&logoColor=0D0D0D)](https://mitolenda.dev/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=F2EFE7)](https://linkedin.com/in/nicollasde)
@@ -33,25 +33,25 @@ Estudios de caso de diseño de sistemas del portfolio — pantallas reales de pr
 
 Pipeline comercial B2B con 11 etapas ponderadas — forecast y temperatura del negocio calculados en el backend, sin ingreso manual.
 
-`UI de staging` `NestJS` `React` `Flutter` `Supabase` `RBAC`
+![UI de staging](https://img.shields.io/badge/UI_de_staging-FF5A00?style=flat-square) ![NestJS](https://img.shields.io/badge/NestJS-0D0D0D?style=flat-square) ![React](https://img.shields.io/badge/React-0D0D0D?style=flat-square) ![Flutter](https://img.shields.io/badge/Flutter-0D0D0D?style=flat-square) ![Supabase](https://img.shields.io/badge/Supabase-0D0D0D?style=flat-square) ![RBAC](https://img.shields.io/badge/RBAC-0D0D0D?style=flat-square)
 
 ### [Solvia](https://mitolenda.dev/case-studies/seeds4y/index.html)
 
 Diagnóstico agrícola que compara cada lectura de sensor con la franja agronómica ideal de la especie y la edad del lote, con un asesor de IA que explica la brecha mientras la decisión queda en manos humanas.
 
-`UI de dev` `Java 17` `Spring Boot` `Flutter` `pgvector` `OpenRouter`
+![UI de dev](https://img.shields.io/badge/UI_de_dev-FF5A00?style=flat-square) ![Java 17](https://img.shields.io/badge/Java_17-0D0D0D?style=flat-square) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-0D0D0D?style=flat-square) ![Flutter](https://img.shields.io/badge/Flutter-0D0D0D?style=flat-square) ![pgvector](https://img.shields.io/badge/pgvector-0D0D0D?style=flat-square) ![OpenRouter](https://img.shields.io/badge/OpenRouter-0D0D0D?style=flat-square)
 
 ### [Haven Link — Equipo Nexus](https://github.com/Mit0lenda/Nexus)
 
 Proyecto de equipo en 2024 para Gênio Digital iTwin Brasil — 3.º lugar nacional, incubado en CEI-UFRGS — centralizando el inventario con cámaras que escanean estantes y visión por computadora.
 
-`Repo público` `Premio` `Python` `iTwin` `Visión por computadora`
+![Repo público](https://img.shields.io/badge/Repo_p%C3%BAblico-FF5A00?style=flat-square) ![Premio](https://img.shields.io/badge/Premio-FF5A00?style=flat-square) ![Python](https://img.shields.io/badge/Python-0D0D0D?style=flat-square) ![iTwin](https://img.shields.io/badge/iTwin-0D0D0D?style=flat-square) ![Visión por computadora](https://img.shields.io/badge/Visi%C3%B3n_por_computadora-0D0D0D?style=flat-square)
 
 > 📐 Más estudios de caso — Nexus System, Sistema Jurídico, Contta, Obra Nav — en [mitolenda.dev](https://mitolenda.dev/).
 
 ## 03 // HERRAMIENTAS
 
-`TypeScript` `React` `Node.js` `Python` `PostgreSQL` `Supabase` `Docker` `n8n` `Git` `GitHub`
+![TypeScript](https://img.shields.io/badge/TypeScript-0D0D0D?style=flat-square) ![React](https://img.shields.io/badge/React-0D0D0D?style=flat-square) ![Node.js](https://img.shields.io/badge/Node.js-0D0D0D?style=flat-square) ![Python](https://img.shields.io/badge/Python-0D0D0D?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D0D0D?style=flat-square) ![Supabase](https://img.shields.io/badge/Supabase-0D0D0D?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-0D0D0D?style=flat-square) ![n8n](https://img.shields.io/badge/n8n-0D0D0D?style=flat-square) ![Git](https://img.shields.io/badge/Git-0D0D0D?style=flat-square) ![GitHub](https://img.shields.io/badge/GitHub-0D0D0D?style=flat-square)
 
 ## 04 // CÓMO TRABAJO
 
