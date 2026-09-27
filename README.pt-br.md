@@ -23,9 +23,19 @@
 
 ## 01 // SOBRE
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/rule-dark.svg">
+  <img src="assets/rule-light.svg" width="100%" height="6" alt="">
+</picture>
+
 Atuo com desenvolvimento web, integrações e automação. Meu foco atual é transformar processos manuais em software sustentável, com documentação clara e um fluxo profissional no GitHub.
 
 ## 02 // TRABALHOS PÚBLICOS SELECIONADOS
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/rule-dark.svg">
+  <img src="assets/rule-light.svg" width="100%" height="6" alt="">
+</picture>
 
 Estudos de caso de arquitetura de sistemas do portfólio — telas reais de produto quando existem, diagramas de arquitetura verificados quando não existem. Sem métricas inventadas.
 
@@ -51,15 +61,25 @@ Projeto de equipe em 2024 para o Gênio Digital iTwin Brasil — 3º lugar nacio
 
 ## 03 // FERRAMENTAS
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/rule-dark.svg">
+  <img src="assets/rule-light.svg" width="100%" height="6" alt="">
+</picture>
+
 ![TypeScript](https://img.shields.io/badge/TypeScript-0D0D0D?style=flat-square) ![React](https://img.shields.io/badge/React-0D0D0D?style=flat-square) ![Node.js](https://img.shields.io/badge/Node.js-0D0D0D?style=flat-square) ![Python](https://img.shields.io/badge/Python-0D0D0D?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D0D0D?style=flat-square) ![Supabase](https://img.shields.io/badge/Supabase-0D0D0D?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-0D0D0D?style=flat-square) ![n8n](https://img.shields.io/badge/n8n-0D0D0D?style=flat-square) ![Git](https://img.shields.io/badge/Git-0D0D0D?style=flat-square) ![GitHub](https://img.shields.io/badge/GitHub-0D0D0D?style=flat-square)
 
 ## 04 // COMO EU TRABALHO
 
-- Uma issue define o problema e os critérios de aceite.
-- Uma branch isola o trabalho.
-- Commits pequenos explicam a evolução.
-- Um pull request mostra o diff, os testes e os riscos.
-- Mudanças em produção exigem checklist de deploy e rollback.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/rule-dark.svg">
+  <img src="assets/rule-light.svg" width="100%" height="6" alt="">
+</picture>
+
+- `01` Uma issue define o problema e os critérios de aceite.
+- `02` Uma branch isola o trabalho.
+- `03` Commits pequenos explicam a evolução.
+- `04` Um pull request mostra o diff, os testes e os riscos.
+- `05` Mudanças em produção exigem checklist de deploy e rollback.
 
 <div align="center">
 

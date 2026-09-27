@@ -23,9 +23,19 @@
 
 ## 01 // ABOUT
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/rule-dark.svg">
+  <img src="assets/rule-light.svg" width="100%" height="6" alt="">
+</picture>
+
 I work on web development, integrations and automation. My current focus is turning manual workflows into maintainable software, with clear documentation and a professional GitHub workflow.
 
 ## 02 // SELECTED PUBLIC WORK
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/rule-dark.svg">
+  <img src="assets/rule-light.svg" width="100%" height="6" alt="">
+</picture>
 
 System-design case studies from the portfolio monorepo — real product screens where they exist, verified architecture diagrams where they don't. No invented metrics.
 
@@ -51,15 +61,25 @@ A 2024 team project for Gênio Digital iTwin Brasil — 3rd place national, incu
 
 ## 03 // TOOLBOX
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/rule-dark.svg">
+  <img src="assets/rule-light.svg" width="100%" height="6" alt="">
+</picture>
+
 ![TypeScript](https://img.shields.io/badge/TypeScript-0D0D0D?style=flat-square) ![React](https://img.shields.io/badge/React-0D0D0D?style=flat-square) ![Node.js](https://img.shields.io/badge/Node.js-0D0D0D?style=flat-square) ![Python](https://img.shields.io/badge/Python-0D0D0D?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D0D0D?style=flat-square) ![Supabase](https://img.shields.io/badge/Supabase-0D0D0D?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-0D0D0D?style=flat-square) ![n8n](https://img.shields.io/badge/n8n-0D0D0D?style=flat-square) ![Git](https://img.shields.io/badge/Git-0D0D0D?style=flat-square) ![GitHub](https://img.shields.io/badge/GitHub-0D0D0D?style=flat-square)
 
 ## 04 // HOW I WORK
 
-- One issue defines the problem and acceptance criteria.
-- One branch isolates the work.
-- Small commits explain the evolution.
-- A pull request shows the diff, tests and risks.
-- Production changes require a deployment and rollback checklist.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/rule-dark.svg">
+  <img src="assets/rule-light.svg" width="100%" height="6" alt="">
+</picture>
+
+- `01` One issue defines the problem and acceptance criteria.
+- `02` One branch isolates the work.
+- `03` Small commits explain the evolution.
+- `04` A pull request shows the diff, tests and risks.
+- `05` Production changes require a deployment and rollback checklist.
 
 <div align="center">
 

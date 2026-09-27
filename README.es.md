@@ -23,9 +23,19 @@
 
 ## 01 // SOBRE MÍ
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/rule-dark.svg">
+  <img src="assets/rule-light.svg" width="100%" height="6" alt="">
+</picture>
+
 Trabajo con desarrollo web, integraciones y automatización. Mi enfoque actual es convertir procesos manuales en software mantenible, con documentación clara y un flujo profesional en GitHub.
 
 ## 02 // TRABAJOS PÚBLICOS SELECCIONADOS
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/rule-dark.svg">
+  <img src="assets/rule-light.svg" width="100%" height="6" alt="">
+</picture>
 
 Estudios de caso de diseño de sistemas del portfolio — pantallas reales de producto cuando existen, diagramas de arquitectura verificados cuando no. Sin métricas inventadas.
 
@@ -51,15 +61,25 @@ Proyecto de equipo en 2024 para Gênio Digital iTwin Brasil — 3.º lugar nacio
 
 ## 03 // HERRAMIENTAS
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/rule-dark.svg">
+  <img src="assets/rule-light.svg" width="100%" height="6" alt="">
+</picture>
+
 ![TypeScript](https://img.shields.io/badge/TypeScript-0D0D0D?style=flat-square) ![React](https://img.shields.io/badge/React-0D0D0D?style=flat-square) ![Node.js](https://img.shields.io/badge/Node.js-0D0D0D?style=flat-square) ![Python](https://img.shields.io/badge/Python-0D0D0D?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D0D0D?style=flat-square) ![Supabase](https://img.shields.io/badge/Supabase-0D0D0D?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-0D0D0D?style=flat-square) ![n8n](https://img.shields.io/badge/n8n-0D0D0D?style=flat-square) ![Git](https://img.shields.io/badge/Git-0D0D0D?style=flat-square) ![GitHub](https://img.shields.io/badge/GitHub-0D0D0D?style=flat-square)
 
 ## 04 // CÓMO TRABAJO
 
-- Una issue define el problema y los criterios de aceptación.
-- Una branch aísla el trabajo.
-- Commits pequeños explican la evolución.
-- Un pull request muestra el diff, las pruebas y los riesgos.
-- Los cambios en producción requieren una lista de deploy y rollback.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/rule-dark.svg">
+  <img src="assets/rule-light.svg" width="100%" height="6" alt="">
+</picture>
+
+- `01` Una issue define el problema y los criterios de aceptación.
+- `02` Una branch aísla el trabajo.
+- `03` Commits pequeños explican la evolución.
+- `04` Un pull request muestra el diff, las pruebas y los riesgos.
+- `05` Los cambios en producción requieren una lista de deploy y rollback.
 
 <div align="center">
 
