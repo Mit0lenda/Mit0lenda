@@ -27,23 +27,27 @@ Trabajo con desarrollo web, integraciones y automatización. Mi enfoque actual e
 
 ## 02 // TRABAJOS PÚBLICOS SELECCIONADOS
 
-### [DEV_MITOLENDA Terminal](https://github.com/Mit0lenda/dev-mitolenda-terminal)
+Estudios de caso de diseño de sistemas del portfolio — pantallas reales de producto cuando existen, diagramas de arquitectura verificados cuando no. Sin métricas inventadas.
 
-Prompt Starship compartido entre macOS y Windows, con instaladores seguros, copias de respaldo, diagnóstico y documentación en portugués, inglés y español.
+### [Aurora CPM](https://mitolenda.dev/case-studies/cpm/index.html)
 
-`Shell` `PowerShell` `Starship` `Git`
+Pipeline comercial B2B con 11 etapas ponderadas — forecast y temperatura del negocio calculados en el backend, sin ingreso manual.
+
+`UI de staging` `NestJS` `React` `Flutter` `Supabase` `RBAC`
+
+### [Solvia](https://mitolenda.dev/case-studies/seeds4y/index.html)
+
+Diagnóstico agrícola que compara cada lectura de sensor con la franja agronómica ideal de la especie y la edad del lote, con un asesor de IA que explica la brecha mientras la decisión queda en manos humanas.
+
+`UI de dev` `Java 17` `Spring Boot` `Flutter` `pgvector` `OpenRouter`
 
 ### [Haven Link — Equipo Nexus](https://github.com/Mit0lenda/Nexus)
 
-Proyecto de equipo realizado en 2024 para Gênio Digital iTwin Brasil, creado para centralizar información de inventario con apoyo de cámara e IA.
+Proyecto de equipo en 2024 para Gênio Digital iTwin Brasil — 3.º lugar nacional, incubado en CEI-UFRGS — centralizando el inventario con cámaras que escanean estantes y visión por computadora.
 
-`Python` `IA` `iTwin` `Proyecto de equipo`
+`Repo público` `Premio` `Python` `iTwin` `Visión por computadora`
 
-### [API de visualizaciones de Codaryn Blog](https://github.com/Mit0lenda/API-CodarynBLOG)
-
-API serverless que valida los identificadores de las publicaciones y registra visualizaciones con Supabase.
-
-`API` `Serverless` `Supabase` `Vercel`
+> 📐 Más estudios de caso — Nexus System, Sistema Jurídico, Contta, Obra Nav — en [mitolenda.dev](https://mitolenda.dev/).
 
 ## 03 // HERRAMIENTAS
 

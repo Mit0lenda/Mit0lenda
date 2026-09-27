@@ -27,23 +27,27 @@ I work on web development, integrations and automation. My current focus is turn
 
 ## 02 // SELECTED PUBLIC WORK
 
-### [DEV_MITOLENDA Terminal](https://github.com/Mit0lenda/dev-mitolenda-terminal)
+System-design case studies from the portfolio monorepo — real product screens where they exist, verified architecture diagrams where they don't. No invented metrics.
 
-A shared Starship prompt for macOS and Windows, with safe installers, backups, diagnostics and documentation in Portuguese, English and Spanish.
+### [Aurora CPM](https://mitolenda.dev/case-studies/cpm/index.html)
 
-`Shell` `PowerShell` `Starship` `Git`
+B2B commercial pipeline with 11 weighted stages — forecast and deal temperature calculated on the backend, not manual entry.
+
+`Staging UI` `NestJS` `React` `Flutter` `Supabase` `RBAC`
+
+### [Solvia](https://mitolenda.dev/case-studies/seeds4y/index.html)
+
+Agricultural diagnostics comparing sensor readings to species- and age-specific agronomic bands, with an AI advisor explaining the gap while a human decides the action.
+
+`Dev UI` `Java 17` `Spring Boot` `Flutter` `pgvector` `OpenRouter`
 
 ### [Haven Link — Time Nexus](https://github.com/Mit0lenda/Nexus)
 
-A 2024 team project for Gênio Digital iTwin Brasil, designed to centralize inventory information with camera and AI support.
+A 2024 team project for Gênio Digital iTwin Brasil — 3rd place national, incubated at CEI-UFRGS — centralizing inventory state with shelf-scanning cameras and computer vision.
 
-`Python` `AI` `iTwin` `Team project`
+`Public repo` `Award` `Python` `iTwin` `Computer vision`
 
-### [Codaryn Blog Views API](https://github.com/Mit0lenda/API-CodarynBLOG)
-
-A serverless API that validates post slugs and stores blog view counts with Supabase.
-
-`API` `Serverless` `Supabase` `Vercel`
+> 📐 More case studies — Nexus System, Sistema Jurídico, Contta, Obra Nav — at [mitolenda.dev](https://mitolenda.dev/).
 
 ## 03 // TOOLBOX
 

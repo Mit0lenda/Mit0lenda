@@ -27,23 +27,27 @@ Atuo com desenvolvimento web, integrações e automação. Meu foco atual é tra
 
 ## 02 // TRABALHOS PÚBLICOS SELECIONADOS
 
-### [DEV_MITOLENDA Terminal](https://github.com/Mit0lenda/dev-mitolenda-terminal)
+Estudos de caso de arquitetura de sistemas do portfólio — telas reais de produto quando existem, diagramas de arquitetura verificados quando não existem. Sem métricas inventadas.
 
-Prompt Starship compartilhado entre macOS e Windows, com instaladores seguros, backups, diagnóstico e documentação em português, inglês e espanhol.
+### [Aurora CPM](https://mitolenda.dev/case-studies/cpm/index.html)
 
-`Shell` `PowerShell` `Starship` `Git`
+Pipeline comercial B2B com 11 etapas ponderadas — forecast e temperatura do negócio calculados no backend, sem digitação manual.
+
+`UI de staging` `NestJS` `React` `Flutter` `Supabase` `RBAC`
+
+### [Solvia](https://mitolenda.dev/case-studies/seeds4y/index.html)
+
+Diagnóstico agrícola que compara cada leitura de sensor com a faixa agronômica ideal da espécie e da idade do talhão, com um consultor de IA explicando o desvio enquanto a decisão fica com o humano.
+
+`UI de dev` `Java 17` `Spring Boot` `Flutter` `pgvector` `OpenRouter`
 
 ### [Haven Link — Time Nexus](https://github.com/Mit0lenda/Nexus)
 
-Projeto de equipe realizado em 2024 para o Gênio Digital iTwin Brasil, criado para centralizar informações de estoque com apoio de câmera e IA.
+Projeto de equipe em 2024 para o Gênio Digital iTwin Brasil — 3º lugar nacional, incubado no CEI-UFRGS — centralizando o estoque com câmeras que escaneiam prateleiras e visão computacional.
 
-`Python` `IA` `iTwin` `Projeto de equipe`
+`Repo público` `Prêmio` `Python` `iTwin` `Visão computacional`
 
-### [API de visualizações do Codaryn Blog](https://github.com/Mit0lenda/API-CodarynBLOG)
-
-API serverless que valida o identificador dos posts e registra contagens de visualização com Supabase.
-
-`API` `Serverless` `Supabase` `Vercel`
+> 📐 Mais estudos de caso — Nexus System, Sistema Jurídico, Contta, Obra Nav — em [mitolenda.dev](https://mitolenda.dev/).
 
 ## 03 // FERRAMENTAS
 
